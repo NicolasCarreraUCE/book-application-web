@@ -22,20 +22,25 @@ Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación en `
 
 ### Buscar un libro por ID
 
-![Buscar un libro por ID](path/to/image.png)
+![Buscar un libro por ID](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Buscar_un_libro_por_ID.png?raw=true)
 
 ### Listar todos los libros
 
-![Listar todos los libros](path/to/image.png)
+![Listar todos los libros](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Listar_todos_los_libros.png?raw=true)
 
 ### Insertar un nuevo libro
 
-![Insertar un nuevo libro](path/to/image.png)
+![Insertar un nuevo libro p1](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Inserter1.png?raw=true)
+![Insertar un nuevo libro p2](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Inserter2.png?raw=true)
+![Insertar un nuevo libro p3](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Inserter3.png?raw=true)
 
 ### Actualizar un libro existente
 
-![Actualizar un libro existente](path/to/image.png)
+![Actualizar un libro existente p1](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Actualizar1.png?raw=true)
+![Actualizar un libro existente p2](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Actualizar2.png?raw=true)
+![Actualizar un libro existente p3](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Actualizar3.png?raw=true)
 
 ### Eliminar un libro
 
-![Eliminar un libro](path/to/image.png)
+![Eliminar un libro p1](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Eliminar1.png?raw=true)
+![Eliminar un libro p2](https://github.com/NicolasCarreraUCE/book-application-web/blob/main/img/Eliminar2.png?raw=true)
